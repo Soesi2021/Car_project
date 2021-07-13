@@ -1,0 +1,30 @@
+  <div class="carousel-item active">
+    <img src="volvo.jpg" alt="volvo" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="toyota.jpg" alt="toyota" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="subaru.jpg" alt="subaru" width="100" height="75">
+  </div>
+  <div class="carousel-item active">
+    <img src="saab.jpg" alt="saab" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="renault.jpg" alt="renault" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="porche.jpg" alt="porche" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="opel.jpg" alt="opel" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="nissan.jpg" alt="nissan" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="mini.jpg" alt="mini" width="100" height="75">
+  </div>
+  <div class="carousel-item">
+    <img src="mazda.jpg" alt="mazda" width="100" height="75">
+  </div>
