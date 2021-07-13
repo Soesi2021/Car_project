@@ -1,0 +1,13 @@
+.carousel-control-prev,
+.carousel-control-next{
+      bottom: 50%;
+}
+
+/* styling */
+body{
+  background-color: #545252;
+  color: #fff;
+}
+.carousel{
+  height: 400px;
+}
