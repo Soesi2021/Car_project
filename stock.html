@@ -44,43 +44,55 @@
   </nav>
   <br>
 <div class="container mt-3">
-  <h2>Filterable Table</h2>
-  <p>Type something in the input field to search the table for first names, last names or emails:</p>  
+  <h2>Cars in stock</h2>
+  <p>Search your car that fits your needs:</p>  
   <input class="form-control" id="myInput" type="text" placeholder="Search..">
   <br>
   <table class="table table-bordered">
     <thead>
       <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
+        <th>Brand</th>
+        <th>Model</th>
+        <th>Build</th>
+        <th>Color</th>
+        <th>Fuel Type</th>
       </tr>
     </thead>
     <tbody id="myTable">
       <tr>
-        <td>John</td>
-        <td>Doe</td>
-        <td>john@example.com</td>
+        <td>Audi</td>
+        <td>Q3</td>
+        <td>2019</td>
+        <td>Black</td>
+        <td>Gasoline</td>
       </tr>
       <tr>
-        <td>Mary</td>
-        <td>Moe</td>
-        <td>mary@mail.com</td>
+        <td>Audi</td>
+        <td>Q4 e-tron</td>
+        <td>2015</td>
+        <td>Black</td>
+        <td>Gasoline</td>
       </tr>
       <tr>
-        <td>July</td>
-        <td>Dooley</td>
-        <td>july@greatstuff.com</td>
+        <td>Audi</td>
+        <td>Q5</td>
+        <td>2020</td>
+        <td>Black</td>
+        <td>Gasoline</td>
       </tr>
       <tr>
-        <td>Anja</td>
-        <td>Ravendale</td>
-        <td>a_r@test.com</td>
+        <td>Audi</td>
+        <td>e-tron®</td>
+        <td>2018</td>
+        <td>Gray</td>
+        <td>Gasoline</td>
       </tr>
     </tbody>
   </table>
   
-  <p>Note that we start the search in tbody, to prevent filtering the table headers.</p>
+  <p>Note* All  cars have 1 year garanty on engines, check our terms and conditions<span id="dots">...</span><span id="more">xxx</span></p>
+
+<button onclick="myFunction()" id="myBtn">Read more</button>
 </div>
 
 <script>
