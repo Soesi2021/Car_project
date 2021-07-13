@@ -1,13 +1,13 @@
 .carousel-control-prev,
 .carousel-control-next{
-      bottom: 50%;
+      bottom: 70%;
 }
 
 /* styling */
 body{
   background-color: #545252;
-  color: #fff;
+  color: rgb(150, 137, 137);
 }
 .carousel{
-  height: 400px;
+  height: 500px;
 }
